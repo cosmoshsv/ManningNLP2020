@@ -1,4 +1,4 @@
-# ManningNLP2020
+# live@Manning NLP Conference
 Additional material for the Manning NLP Talk
 
 
