@@ -1,6 +1,7 @@
 # live@Manning NLP Conference
 Additional material for the Manning NLP Talk
 
+![alt text](https://github.com/cosmoshsv/ManningNLP2020/blob/master/0.jpeg?raw=true)
 
 Few of my favorite resources since the day I got interested in Deep Learning/Data Science/NLP! 
  
